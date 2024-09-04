@@ -11,9 +11,7 @@
 # displays an error if the file does not exist.
 
 
-
 # -------------------------
-
 
 
 # Creates primary function for user to input sales data;
@@ -181,9 +179,7 @@ def readSalesData():
     print(f"Total sales: ${totalAllSales: .2f}")
 
 
-
 # ---------------------
-
 
 
 # Calls functions in operating order:
